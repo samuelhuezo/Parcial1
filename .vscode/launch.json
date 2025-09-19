@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/JHUEZO 2026/OneDrive - Corporacion Universitaria Remington/Escritorio/proyecto",
-      "program": "c:/Users/JHUEZO 2026/OneDrive - Corporacion Universitaria Remington/Escritorio/proyecto/build/Debug/outDebug",
+      "cwd": "c:/Users/JHUEZO 2026/OneDrive - Corporacion Universitaria Remington/Escritorio/parcial1",
+      "program": "c:/Users/JHUEZO 2026/OneDrive - Corporacion Universitaria Remington/Escritorio/parcial1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

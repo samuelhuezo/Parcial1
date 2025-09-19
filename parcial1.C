@@ -8,7 +8,8 @@ typedef struct {
 // Datos predefinidos
 #define N 5
 Estudiante estudiantes[N] = {
-    {100736289, 4.5},
+    // se agrego codigo estudiante
+    {2024101, 4.5},
     {2024102, 3.2},
     {2024103, 5.0},
     {2024104, 2.8},
